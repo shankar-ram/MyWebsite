@@ -1,0 +1,140 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family:'Merriweather', serif;
+    color:#40514E ;
+   
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    color:#66BFBF;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+    font-weight:bold;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+.top{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top:100px;
+    
+}
+.middle{
+   margin-bottom:60px;
+    
+}
+.bottom{
+    background-color: #66BFBF;
+    padding:50px 0 20px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.mypic{
+    width:130px;
+}
+.topcloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+
+}
+.bottomcloud{
+    position:absolute;
+    bottom: 300px;
+    left:300px;
+}
+.skill-row{
+  width:50%;
+  text-align: left;
+  
+  margin: 100px auto 100px auto;
+}
+.lap-img{
+    width:25%;
+    float: left;
+    padding-right:30px;
+}
+.sing-img{
+    width:22%;
+    float: right;
+    padding-left:30px;
+}
+.profile{
+    width:40%;
+    text-align:center;
+    margin:60px auto 60px auto;
+    
+}
+
+p{
+    line-height: 2;
+}
+.about-me{
+
+    padding-top:10px;
+    
+}
+a{
+    color:#11999E ;
+    font-family: 'Montserrat','sans-serif';
+    margin:10px 20px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color:#EAF6F6;
+}
+
+
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    width:4%;
+    border-width:7px;
+    color:#EEEEEE;
+    margin:100px auto 100px auto ;
+    
+}
+.msg{
+    width:40%;
+    margin:40px auto 60px;
+    text-align:center;
+}
+.btn {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #2ec7bf 5%, #448f8b 100%);
+	background-color:#2ec7bf;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	padding:8px 17px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #448f8b 5%, #2ec7bf 100%);
+	background-color:#448f8b;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.publish{
+    color:#EAF6F6;
+    font-size:0.7rem ;
+    padding:20px 0 20px;
+}
